@@ -7,3 +7,6 @@ HUOBI_EXCHANGE = ccxt.huobi({
         'defaultType': 'spot',
     },
 })
+
+TELEGRAM_TOKEN = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+USER_ID_TELEGRAM = 'xxxxxxxxxxxxxxxx'
